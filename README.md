@@ -1,7 +1,5 @@
 # UNO Game
 
-![UNO Game Screenshot](screenshots/gameplay.png)
-
 This project implements a simple UNO card game using Python and Tkinter for the GUI.
 
 ## Table of Contents
